@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Denis</h1> 
+<h1 align="center">Hi there, I'm Denis<a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I study the profession of a frontend developer and talk about it here <a href="https://youtube.com/@butyrskiy" target="_blank">youtube channel</a> and here <a href="https://t.me/DenisButyrskiy" target="_blank">telegram channel</a></h3>
 
 <h2 align="center">Skills:</h2> 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
