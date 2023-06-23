@@ -3,6 +3,7 @@
 <h3 align="center">I study the profession of a front-end developer and talk about it here <a href="https://youtube.com/@butyrskiy" target="_blank">youtube channel</a> and here <a href="https://t.me/DenisButyrskiy" target="_blank">telegram channel</a></h3>
 
 ### Current Skills:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 - [All contacts for communication](https://taplink.cc/butyrskiy)
 
