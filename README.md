@@ -16,8 +16,6 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/butyrskiy/badges/small)](https://www.codewars.com/users/butyrskiy)
-
 <h2 align="center">Skills in progress:</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,6 +27,8 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+[![codewars](https://www.codewars.com/users/butyrskiy/badges/small)](https://www.codewars.com/users/butyrskiy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=butyrskiy&theme=github-dark-blue&hide_border=false&border_radius=4.0)](https://git.io/streak-stats)
 
