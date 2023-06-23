@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://taplink.cc/butyrskiy" target="_blank">Denis</a> 
+<h1 align="center">Hi there, I'm <a href="https://taplink.cc/butyrskiy" target='_blank'>Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I study the profession of a front-end developer and talk about it here <a href="https://youtube.com/@butyrskiy" target="_blank">youtube channel</a> and here <a href="https://t.me/DenisButyrskiy" target="_blank">telegram channel</a></h3>
 
