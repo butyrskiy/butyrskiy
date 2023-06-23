@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center">I study the profession of a frontend developer and talk about it here <a href="https://youtube.com/@butyrskiy" target="_blank">youtube channel</a> and here <a href="https://t.me/DenisButyrskiy" target="_blank">telegram channel</a></h4>
 
-### [All contacts for communication](https://taplink.cc/butyrskiy)
+<h3 align="center"><a href="https://taplink.cc/butyrskiy" target="_blank">✉️ All contacts for communication</a></h3>
 
 <h2 align="center">Skills:</h2> 
 
@@ -22,8 +22,6 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<h3 align="left"><a href="https://taplink.cc/butyrskiy" target="_blank">✉️ All contacts for communication</a></h3>
 
 <h2 align="center">Other info:</h2>
 
