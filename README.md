@@ -9,7 +9,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=butyrskiy&theme=github-dark-blue&hide_border=false&border_radius=4.0)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/butyrskiy/badges/small)](https://www.codewars.com/users/butyrskiy)
+[![codewars](https://www.codewars.com/users/butyrskiy/badges/large)](https://www.codewars.com/users/butyrskiy)
 
 <!--
 **butyrskiy/butyrskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
