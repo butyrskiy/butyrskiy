@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butyrskiy&layout=compact&theme=github_dark)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=butyrskiy&theme=github-dark-blue&hide_border=true&border_radius=5.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=butyrskiy&theme=github-dark-blue&hide_border=false&border_radius=4.0)](https://git.io/streak-stats)
 
 <!--
 **butyrskiy/butyrskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
