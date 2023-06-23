@@ -21,8 +21,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-### ✉️ [All contacts for communication](https://taplink.cc/butyrskiy)
+<h3 align="center"><a href="https://taplink.cc/butyrskiy" target="_blank">✉️ All contacts for communication</a></h3>
   
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
