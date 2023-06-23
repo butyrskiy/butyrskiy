@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I study the profession of a front-end developer and talk about it here <a href="https://youtube.com/@butyrskiy" target="_blank">youtube channel</a> and here <a href="https://t.me/DenisButyrskiy" target="_blank">telegram channel</a></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butyrskiy&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butyrskiy&layout=compact&theme=dracula)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=butyrskiy&theme=github-dark-blue&hide_border=true&border_radius=5.6)](https://git.io/streak-stats)
