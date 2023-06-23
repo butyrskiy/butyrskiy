@@ -4,6 +4,7 @@
 
 ### Current Skills:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 - [All contacts for communication](https://taplink.cc/butyrskiy)
 
