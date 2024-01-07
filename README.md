@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Denis<a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">I study the profession of a frontend developer and talk about it here <a href="https://youtube.com/@butyrskiy" target="_blank">YouTube channel</a> and here <a href="https://t.me/DenisButyrskiy" target="_blank">Telegram channel</a></h4>
+<h4>Looking for a job at the position Frontend Developer.
+I'm considering vacancies with any type of employment. Remote work format or 
+hybrid is preferred, but I will consider options. I live in Georgia now, ready for relocation.</h4>
 
-<h3 align="center"><a href="https://taplink.cc/butyrskiy" target="_blank">✉️ All contacts for communication</a></h3>
+<h4>Telegram - <a href="https://t.me/butyrskiy" target="_blank">t.me/butyrskiy</a><br>
+<a href="https://taplink.cc/butyrskiy" target="_blank">All contacts for communication</a></h4>
 
 <h2 align="center">Skills:</h2> 
 
