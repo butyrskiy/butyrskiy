@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Denis<a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4>Looking for a job at the position Frontend Developer.
 I'm considering vacancies with any type of employment. Remote work format or 
 hybrid is preferred, but I will consider options. I live in Georgia now, ready for relocation.</h4>
