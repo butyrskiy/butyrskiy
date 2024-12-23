@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Denis<a> 
-<h4>Looking for a job at the position Frontend Developer.
-I'm considering vacancies with any type of employment. Remote work format or 
-hybrid is preferred, but I will consider options. I live in Georgia now, ready for relocation.</h4>
+<!-- <h1 align="center">Hi there, I'm Denis<a> -->
+<!-- <h4>Looking for a job at the position Frontend Developer. -->
+<!-- I'm considering vacancies with any type of employment. Remote work format or  -->
+<!-- hybrid is preferred, but I will consider options. I live in Georgia now, ready for relocation.</h4> -->
 
 <h4>Telegram - <a href="https://t.me/butyrskiy" target="_blank">t.me/butyrskiy</a><br>
 <a href="https://taplink.cc/butyrskiy" target="_blank">All contacts for communication</a></h4>
